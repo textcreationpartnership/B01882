@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bargain which the Duke of Luxembourg general of the troops of France, made with the devil, to win batles [sic]; and to be loved of the Kings of France, and of all the lords and ladies of that court; with the tricks and cheats of the devil. Containing twenty four articles. In a letter from Paris to one at London, June 10: 1692. Translated out of French.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01882</idno>
+            <idno type="STC">Wing B762</idno>
+            <idno type="STC">ESTC R225143</idno>
+            <idno type="EEBO-CITATION">52614517</idno>
+            <idno type="OCLC">ocm 52614517</idno>
+            <idno type="VID">175758</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175758)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2749:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bargain which the Duke of Luxembourg general of the troops of France, made with the devil, to win batles [sic]; and to be loved of the Kings of France, and of all the lords and ladies of that court; with the tricks and cheats of the devil. Containing twenty four articles. In a letter from Paris to one at London, June 10: 1692. Translated out of French.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Daniel,</publisher>
+                  <pubPlace>[Edinburgh?] Re-printed conform to the London copy,</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon. Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: creased, cropped with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Luxembourg, François-Henri de Montmorency, --  duc de, 1628-1695</term>
+               <term>Devil --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175758:1" rendition="simple:additions"/>
+            <head>THE BARGAIN Which the DUKE OF LUXEMBOURG General of the Troops of <hi>France,</hi> made with the DEVIL, to Win BATLES; AND <hi>To make his Name famous over all the habitable Earth, and to be Loved of the Kings of <hi>France,</hi> and of all the Lords and Ladies of that Court; With the Tricks and Cheats of the Devil. Containing twenty four Articles.</hi>
+            </head>
+            <head type="sub">In a Letter from <hi>Paris</hi> to one at <hi>London,</hi> June 10: 1692.</head>
+            <head type="sub">Tranſlated out of French.</head>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>I Have according to your deſire made diligent Enquiry after the Articles of Com<g ref="char:EOLhyphen"/>pact, that the Duke of <hi>Luxembourg</hi> is ſaid to have made with the Devil, and with much ado found one Copy of them, which I here encloſed ſend you. I doubt not but you may have heard, that when the ſaid Duke was taken, and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt to the <hi>Baſtile,</hi> upon ſuſpition of being concerned in the Poyſoning Buſineſs, that <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me y<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> ago m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> noiſe all the Kingdom over, all his Papers were ſeized, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d this of the Compact was found amongſt them, and ſome time afterwards Printed <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re at <hi>Paris.</hi> By this you will ſee what the Boundleſs Ambition of a vain glorious <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an is capable of ſeting him upon, and that he will make no difficulty to violate all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivine and Humane Laws, to ſatisfie the ſame; But he who was a Lyar and Deceiver <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om the beginning, ſerved him no better then he alway do's all his Votaries, for not <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e of the Articles did he keep or perform, this was the moſt powerful Argument that <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>evail'd with the Duke, to believe that he was cheated by the Devil, and made him <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pent of his Bargain. The <hi>French</hi> King when he ſaw theſe Articles, asked the Duke, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y he would do ſo abominable a thing? his Anſwer was, That he believ'd nothing <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nlawful that could contribute to the Glory and good Succeſs of his moſt Chriſtian <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>jeſties affairs, both at Home and Abroad; And that he valued not what became of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mſelf afterward, providing he could have the ſatisfaction, in this World, of being <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chief Perſon in his favour, and be ſucceſsful in War. The King 'tis ſaid, ſmil'd the fancy, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thanked him for his Zeal; And ſent <hi>Jeſuits</hi> and other <hi>Ghoſtly</hi> Fathers to <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ruct and diſingage him of that Treaty; Which when they had done, and made <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ort thereof to the king. His moſt Chriſtian Majeſty has ever ſince thought him <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fitteſt Perſon in his Kingdom to be intruſted with the Chief Command of his Army's <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Flanders,</hi> and elſe where.</p>
+            <div type="part">
+               <head>Moneſiur <hi>Luxembourge</hi> to the Devil.</head>
+               <p n="1">1. THou ſhall give me every Month during my Life, One hundred thouſand Crowns in good and Lawful Money, paſſable wherever <hi>I</hi> ſhall be, half Gold, and I Silver.</p>
+               <p n="2">2. Thou ſhall make me win all the Battles I ſhall Fight, whither it be aainſt the <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng's Enemies whom <hi>I</hi> ſerve, or my own particular Enemies.</p>
+               <p n="3">3. Thou ſhalt preſerve my Body from all Accidents, either from Wounds, Fire, or <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ord, ad from poyſon, and generally from all Accidents whatſomever.</p>
+               <p n="4">4. Thou ſhalt let me know in ſix houres time the Secrets of all Courts, and of all the <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uncels of Europe, with all the diſcourſes they have in their converſations, <hi>&amp;c.</hi>
+               </p>
+               <p n="5">
+                  <pb facs="tcp:175758:2" rendition="simple:additions"/> 5. Thou ſhalt make me agreeable to all ſorts of perſons, as well of the one Sexe as the other.</p>
+               <p n="6">6. Thou ſhalt make me Honoured and Reſpected by all Nations, and particularly by the Nations of Europe.</p>
+               <p n="7">7. Thou ſhalt give me a Spirit of Judgement and Underſtanding to do all things eaſily that are neceſſary for me.</p>
+               <p n="8">8. Thou ſhalt make me know all Sciences and Arts, as well as the Mathematicks as Others.</p>
+               <p n="9">9. Thou ſhalt make me expert at all Exerciſes, either to Command the Armies, or to manage ARms, Dance, or Ride the great Horſe.</p>
+               <p n="10">10. And when I am ſick, thou ſhalt give me Phyſick to cure me in three dayes.</p>
+               <p n="11">11. Thou ſhalt prolong my Life, my Dayes for thirty years, counting from the day of making the Bargain between thee and me.</p>
+               <p n="12">12. Which Conditions if thou ſhalt perform, I promiſe to give thee my Body and Soul to be diſpoſed of as thou ſhalt think fit. And for the Execution of my promiſe, I ſign the ſaid Bargain with my own Blood.</p>
+            </div>
+            <div type="part">
+               <head>The Devil to Monſieur <hi>Luxembourg.</hi>
+               </head>
+               <p n="1">1. I Will give you every moneth, during your life, One hundred thouſand Crowns o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Good, and Lawful Money paſſible where ever you ſhall be; half Gold, &amp; half Silver</p>
+               <p n="2">2. I will make you win all the Battels you ſhall Fight, either againſt the Enemies o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the King whom you ſerve, or your own particular Enemies.</p>
+               <p n="3">3. I will preſerve your Body from all Accidents, either from Wounds, Fire, o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sword, and from Poiſon; and generally from all Accidents whatſoever.</p>
+               <p n="4">4. I will let you know in ſix houres time, all the ſecrets of all the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and all <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Councels of Europe, with all the Diſcourſes which they have in their private conver<g ref="char:EOLhyphen"/>tions.</p>
+               <p n="5">5. I will make you agreeable to all ſorts of Perſons, as well of the one Sex, as the oth<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+               <p n="6">6. I will make you honoured and reſpected by all Nations, and particularly by <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nations of Europe.</p>
+               <p n="7">7 I will give you a Spirit of Judgement and Underſtanding to do eaſily all this that are neceſſary for you</p>
+               <p n="8">8. I will make you know all the Sciencies and Arts, as well the Mathematicks, as oth<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </p>
+               <p n="9">9. <hi>I</hi> will make you expert at all Exerciſes, either to command the Armies, or manage Arms, Dance, or Ride the great Horſe.</p>
+               <p n="10">10. And when you are ſick. <hi>I</hi> will give you Phyſick to cure you in three dayes.</p>
+               <p n="11">11. I will prolong your Life and your Dayes for thirty years, counting from the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of making the bargain between thee and me.</p>
+               <p n="12">12. Which if I perform, thou ſhalt give me thy Body and Soul to be diſpoſed o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I think fit.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Re-Printed conform to the LONDON Copy, Printed for S. <hi>Daniel, 1692.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
